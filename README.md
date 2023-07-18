@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @Anandrajputofficial
-- 👀 I’m interested in ... Learning New Skill
-- 🌱 I’m currently learning ...Full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Anandrajputofficial/Anandrajputofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![logo](https://github.com/Anandrajputofficial/Anandrajputofficial/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anand Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
