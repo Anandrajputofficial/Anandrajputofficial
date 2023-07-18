@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anandra04945813" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/twitter.svg" alt="anandra04945813" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anand-rajput-95a478191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/linkedin.svg" alt="anand-rajput-95a478191" height="30" width="40" /></a>
+<a href="https://twitter.com/anandra04945813" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="anandra04945813" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anand-rajput-95a478191" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/linkedin.svg](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)" alt="anand-rajput-95a478191" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
